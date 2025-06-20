@@ -1,5 +1,5 @@
 homepage: "https://cheq.ai/manage/"
 documentation: "https://help.ensighten.com/hc/en-us/articles/36258326811665-Implementation-with-Google-Tag-Manager"
 versions:
-  - sha: {{TBD}}
+  - sha: 5fd650261abdcd20945f14c2441a76e7c2362b4c
     changeNotes: Initial version
