@@ -433,10 +433,6 @@ ___WEB_PERMISSIONS___
               {
                 "type": 1,
                 "string": "https://nexus.ensighten.com/apps/gtm/sst/1.13/sst.min.js"
-              },
-              {
-                "type": 1,
-                "string": "https://mintcream-owl-529244.hostingersite.com/test/sst.min.js?v\u003d1"
               }
             ]
           }
